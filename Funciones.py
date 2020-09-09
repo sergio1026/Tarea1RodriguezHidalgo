@@ -12,6 +12,7 @@ def basic_ops(num_1,num_2,operator):
         return num_1 & num_2
     if   (operator == 3) : 
         return num_1 | num_2
+        
  
 
 #VERIFICACION DE DATOS DE ENTRADA ---------------------------------------------
