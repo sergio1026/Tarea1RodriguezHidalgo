@@ -4,7 +4,7 @@ import math
 
 
 def raices():
-    lista = list(range(1, 100000, 1))
+    lista = list(range(0, 100000, 1))
     respuesta = []
     for i in lista:
         respuesta.append(math.sqrt(i))
